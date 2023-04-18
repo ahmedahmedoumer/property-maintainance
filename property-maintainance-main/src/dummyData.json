@@ -1,0 +1,72 @@
+[
+  {
+    "profilePicture": "person/1.jpeg",
+    "firstName": "Safak",
+    "lastName": "Kocaoglu",
+    "email": "safakkocaoglu@gmail.com",
+    "password": "12345678"
+  },
+  {
+    "profilePicture": "person/2.jpeg",
+    "firstName": "Janell",
+    "lastName": "Shrum",
+    "email": "JanellShrum@gmail.com",
+    "password": "12345678"
+  },
+  {
+    "profilePicture": "person/3.jpeg",
+    "firstName": "Alex",
+    "lastName": "Durden",
+    "email": "AlexDurden@gmail.com",
+    "password": "12345678"
+  },
+  {
+    "profilePicture": "person/4.jpeg",
+    "firstName": "Dora",
+    "lastName": "Hawks",
+    "email": "AlexDurden@gmail.com",
+    "password": "12345678"
+  },
+  {
+    "profilePicture": "person/5.jpeg",
+    "firstName": "Thomas",
+    "lastName": "Holden",
+    "email": "ThomasHolden@gmail.com",
+    "password": "12345678"
+  },
+  {
+    "profilePicture": "person/6.jpeg",
+    "firstName": "Shirley",
+    "lastName": "Beauchamp",
+    "email": "ShirleyBeauchamp@gmail.com",
+    "password": "12345678"
+  },
+  {
+    "profilePicture": "person/7.jpeg",
+    "firstName": "Travis",
+    "lastName": "Bennett",
+    "email": "Travis Bennett@gmail.com",
+    "password": "12345678"
+  },
+  {
+    "profilePicture": "person/8.jpeg",
+    "firstName": "Kristen",
+    "lastName": "Thomas",
+    "email": "KristenThomas@gmail.com",
+    "password": "12345678"
+  },
+  {
+    "profilePicture": "person/9.jpeg",
+    "firstName": "Gary",
+    "lastName": "Duty",
+    "email": "GaryDuty@gmail.com",
+    "password": "12345678"
+  },
+  {
+    "profilePicture": "person/10.jpeg",
+    "firstName": "Safak",
+    "lastName": "Kocaoglu",
+    "email": "SafakKocaoglu@gmail.com",
+    "password": "12345678"
+  }
+]

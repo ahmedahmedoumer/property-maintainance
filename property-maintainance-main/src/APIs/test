@@ -1,0 +1,10 @@
+const fetchData = useCallback(async () => {
+    try{
+    const services=await getServices({setError, setIsLoading});
+     const length=services.length;
+     console.log(length);
+    }
+    catch(error){
+      console.log(error);
+    }
+    }, [getServices, setError, setIsLoading]);
